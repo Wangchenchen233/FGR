@@ -1,6 +1,6 @@
 ## FGR: A Unified Framework for Feature Selection via Feature Graph Reduction
 
-This repository provides a python implementation of FGR as described in the paper ["A Unified Framework for Feature Selection via Feature Graph Reduction"](https://).
+This repository provides a python implementation of FGR as described in the paper ["Blocking Features for Complex Association Learning: A Unified Feature Selection Framework via Graph Reduction"](https://).
 
 ## Datasets
 The datasets are accessible through the UCI machine learning repository (https://archive.ics.uci.edu/ml/datasets.php) or scikit-feature selection repository (https://jundongl.github.io/scikit-feature/datasets.html).
